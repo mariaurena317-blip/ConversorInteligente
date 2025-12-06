@@ -5,6 +5,5 @@ var searchData=
   ['textoextraido_2',['textoExtraido',['../class_conversor_1_1_form1.html#a86564804d77a8ca1be6edd72b58f6ced',1,'Conversor::Form1']]],
   ['txtinfoarchivo_3',['txtInfoArchivo',['../class_conversor_1_1_form1.html#a100b99bfd59481fea2bd71039edcd169',1,'Conversor::Form1']]],
   ['txttextoencriptado_4',['txtTextoEncriptado',['../class_conversor_1_1_form1.html#a1a2e282d4e1b1583524fab005ae1053f',1,'Conversor::Form1']]],
-  ['txttextoextraido_5',['txtTextoExtraido',['../class_conversor_1_1_form1.html#a9f200f77099408860bc145bf2e670a7c',1,'Conversor::Form1']]],
-  ['txttextoextraido_5ftextchanged_6',['txtTextoExtraido_TextChanged',['../class_conversor_1_1_form1.html#a54165e855b232366c1ab8948a2daa827',1,'Conversor::Form1']]]
+  ['txttextoextraido_5',['txtTextoExtraido',['../class_conversor_1_1_form1.html#a9f200f77099408860bc145bf2e670a7c',1,'Conversor::Form1']]]
 ];
